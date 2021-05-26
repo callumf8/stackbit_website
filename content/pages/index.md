@@ -9,11 +9,11 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Hello world and welcome to my small corner of the internet! I'm a 2nd year
+      PhD student working in DAMTP Cambridge where I am excited by distorted
+      astrophysical discs! Outside of research I've recently picked up kayaking
+      and enjoy camping and exploring the countryside in my wee Fiat Panda.
     actions:
       - label: Contact Me
         url: /contact
