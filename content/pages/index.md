@@ -28,8 +28,9 @@ sections:
         style: button
 seo:
   title: 'Callum Fairbairn '
-  description: |
+  description: |+
     Homepage of PhD Research Student Callum Fairbairn
+
   extra:
     - name: 'og:type'
       value: website
