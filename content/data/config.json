@@ -17,6 +17,15 @@
                 "style": "link"
             },
             {
+                "label": "Research",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Blog",
                 "url": "/blog/",
                 "style": "link"
@@ -35,15 +44,6 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
-            },
-            {
-                "label": "Research",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "has_social": true,
