@@ -8,7 +8,7 @@ sections:
     actions: []
   - section_id: about
     type: section_content
-    title: Aout
+    title: ABOUT
     content: >
       Hello world and welcome to my small corner of the internet! I'm a 2nd year
       PhD student working in DAMTP Cambridge where I am excited by distorted
