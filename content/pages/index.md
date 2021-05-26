@@ -4,9 +4,11 @@ hide_title: true
 sections:
   - type: section_hero
     title: Callum Fairbairn
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Hello world and welcome to my small corner of the internet! I'm a 2nd year
+      PhD student working in DAMTP Cambridge where I am excited by distorted
+      astrophysical discs! Outside of research I've recently picked up kayaking
+      and enjoy camping and exploring the countryside in my wee Fiat Panda. 
     section_id: hero
     actions: []
   - section_id: about
