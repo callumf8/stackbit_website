@@ -28,7 +28,8 @@ sections:
         style: button
 seo:
   title: 'Callum Fairbairn '
-  description: The preview of the Fresh theme
+  description: |
+    Homepage of PhD Research Student Callum Fairbairn
   extra:
     - name: 'og:type'
       value: website
