@@ -6,8 +6,7 @@ sections:
     title: Callum Fairbairn
     section_id: hero
     actions: []
-  - title: 'ABout '
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
