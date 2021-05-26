@@ -29,8 +29,9 @@ sections:
 seo:
   title: 'Callum Fairbairn '
   description: |+
-    Homepage of PhD Research Student
-    University of Cambridge 
+    PhD Research Student Homepage
+    University of Cambridge, Christ's College
+
 
   extra:
     - name: 'og:type'
