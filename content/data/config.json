@@ -61,7 +61,6 @@
                 "new_window": true
             },
             {
-                "url": "#",
                 "style": "icon",
                 "icon_class": "youtube",
                 "new_window": false,
