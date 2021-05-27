@@ -1,6 +1,8 @@
 ---
 title: About Me
-subtitle: I should introduce myself...
+subtitle: >-
+  I should begin by introducing myself...so here is me waving from the side of a
+  mountain!
 img_path: /images/half_dome.jpeg
 img_alt: Portrait of a man with beard and mustache
 seo:
