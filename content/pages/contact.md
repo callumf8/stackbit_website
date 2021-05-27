@@ -25,7 +25,7 @@ sections:
         options:
           - Research
           - Cambridge
-          - null
+          - Surprise
       - input_type: textarea
         name: message
         label: Message
