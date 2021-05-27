@@ -1,6 +1,6 @@
 ---
 title: Exploring Yellowstone
-excerpt: The bacterial matts produce the stunning colour gradients of Grand Prismatic
+excerpt: The bacterial matts produce the stunning colour gradients of Grand Prismatic!
 thumb_img_path: /images/spectacular-saturn.JPG
 thumb_img_alt: Grand Prismatic
 content_img_path: /images/DAY_1020.JPG
