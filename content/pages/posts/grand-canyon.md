@@ -6,7 +6,7 @@ excerpt: >-
   miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857
   meters).
 thumb_img_path: /images/spectacular-saturn.JPG
-thumb_img_alt: Hikers on the trail
+thumb_img_alt: Grand Prismatic
 content_img_path: /images/DAY_1020.JPG
 content_img_alt: Hikers on the trail
 seo:
