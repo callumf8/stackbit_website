@@ -12,8 +12,9 @@ sections:
     content: >
       Hello world and welcome to my small corner of the internet! I'm a 2nd year
       PhD student working in DAMTP Cambridge where I am excited by distorted
-      astrophysical discs! Outside of research I've recently picked up kayaking
-      and enjoy camping and exploring the countryside in my wee Fiat Panda.
+      astrophysical discs! Outside of research, I've recently picked up kayaking
+      and enjoy camping and exploring the countryside in my wee Fiat Panda. 6 ft
+      2 in a compact...but luckily the seats go back.
     actions:
       - label: Contact Me
         url: /contact
