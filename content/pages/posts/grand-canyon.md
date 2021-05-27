@@ -42,5 +42,6 @@ seo:
       value: images/8.jpg
       relativeUrl: true
 layout: post
+date: '0201-08-08'
 ---
 Photo by Callum Fairbairn.
