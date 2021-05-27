@@ -23,7 +23,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Research
+          - Research collaboration
           - null
           - Other
       - input_type: textarea
