@@ -1,6 +1,6 @@
 ---
 title: Research
-subtitle: lorem-ipsum
+subtitle: Department of Applied Mathematics and Theoretical Physics
 img_alt: lorem-ipsum
 seo:
   title: ''
