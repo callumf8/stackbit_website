@@ -12,9 +12,6 @@ layout: page
 ---
 ## Publications
 
-
-
 ## Conferences
 
-
-
+## Teaching Experience
