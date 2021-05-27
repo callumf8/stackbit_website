@@ -33,7 +33,7 @@
             },
             {
                 "label": "Research",
-                "url": "/research/",
+                "url": "/research",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
