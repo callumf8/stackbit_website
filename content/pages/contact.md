@@ -24,7 +24,7 @@ sections:
         default_value: Please select
         options:
           - Research
-          - Cambrige
+          - Cambridge
           - Other
       - input_type: textarea
         name: message
