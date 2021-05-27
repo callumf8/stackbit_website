@@ -8,7 +8,7 @@ excerpt: >-
 thumb_img_path: /images/spectacular-saturn.JPG
 thumb_img_alt: Grand Prismatic
 content_img_path: /images/DAY_1020.JPG
-content_img_alt: Hikers on the trail
+content_img_alt: Grand prismatic
 seo:
   title: Hiking The Grand Canyon
   description: >-
