@@ -33,4 +33,10 @@ seo:
       relativeUrl: true
 layout: page
 ---
-*** ***
+## Background...
+
+I come from the glorious Kingdom of Fife on the East Coast of Scotland! Growing up next to the seaside and within reach of the stunning Scottish highlands, I have a passion for the outdoors and adventure. In particular, camping, road trips and kayaking are my favourite pursuits to clear the mind from the world of research!
+
+I maintained my presence in Fife during the course of my undergraduate years, obtaining my Masters degree in Theoretical Physics and Applied Mathematics from the University of St Andrews. This small but lively coastal town shaped my interest in academia which subsequently led me to Christ's College Cambridge where I am currently in my 2nd Year pursuing a PhD under the supervision of Prof Gordon Ogilvie.
+
+As a member of the college Middle Combination Room I represented students as Welfare Officer during the pandemic year and now as the Disability Officer.  Feel free to check out our page for more details about the active student life here at [Christ's](http://www.christsmcr.co.uk/)!
