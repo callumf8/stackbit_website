@@ -23,8 +23,8 @@ layout: page
 <div class="responsive-table">
 <table> <caption>Simple table with caption and header</caption>
 <thead><tr> 
-    <th>Column 1</th> 
-    <th>Column 2</th> 
+    <th>Year</th> 
+    <th>Location</th> 
     <th>Column 3</th> 
 </tr> </thead> 
 <tbody> 
