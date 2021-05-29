@@ -22,7 +22,7 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 
 ## Publications
 
-*   **Nonlinear dynamics of hydrodynamic tori as a model of oscillations and bending waves in astrophysical discs** | CW Fairbairn, GI Ogilvie – Monthly Notices of the Royal Astronomical Society **(2021) (**DOI:** **[10.1093/mnras/stab1554](https://doi.org/10.1093/mnras/stab1554)**)**
+*   **Nonlinear dynamics of hydrodynamic tori as a model of oscillations and bending waves in astrophysical discs** | CW Fairbairn, GI Ogilvie – Monthly Notices of the Royal Astronomical Society **(2021)** (DOI: [10.1093/mnras/stab1554](https://doi.org/10.1093/mnras/stab1554))
 
 *   **Eruptions and flaring activity in emerging quadrupolar regions** | P Syntelis, EJ Lee, CW Fairbairn, V Archontis, AW Hood – Astronomy & Astrophysics **(2019)** *630, a134* (DOI: [10.1051/0004-6361/201936246](http://dx.doi.org/10.1051/0004-6361/201936246))
 
