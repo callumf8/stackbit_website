@@ -25,7 +25,7 @@ layout: page
 <thead><tr> 
     <th>Year</th> 
     <th>Location</th> 
-    <th>Column 3</th> 
+    <th>Contribution</th> 
 </tr> </thead> 
 <tbody> 
 <tr> 
