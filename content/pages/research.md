@@ -21,34 +21,35 @@ layout: page
 ## Conferences
 
 \<div class="responsive-table">
-  \<table>
-    \<caption>Simple table with caption and header\</caption>
-    \<thead>
-      \<tr>
-        \<th>Year\</th>
-        \<th>Conference\</th>
+\<table>
+\<caption>Simple table with caption and header\</caption>
+\<thead>
+\<tr>
+\<th>Year\</th>
+\<th>Conference\</th>
 
 \<th>Location\</th>
 
-        \<th>Contribution\</th>
-      \</tr>
-    \</thead>
-    \<tbody>
-      \<tr>
-        \<td>2021\</td>
-        \<td>Distorted Astrophysical Discs\</td>
+        <th>Contribution</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2021\</td>
+        <td>Distorted Astrophysical Discs\</td>
 
 \<td>Kavli institute Cambridge\</td>
 
-        \<td>Poster\</td>
-      \</tr>
-      \<tr>
-        \<td>Row 2, Cell 1\</td>
-        \<td>Row 2, Cell 2\</td>
-        \<td>Row 2, Cell 3\</td>
-      \</tr>
-    \</tbody>
-  \</table>
+        <td>Poster</td>
+      </tr>
+      <tr>
+        <td>Row 2, Cell 1</td>
+        <td>Row 2, Cell 2</td>
+        <td>Row 2, Cell 3</td>
+      </tr>
+    </tbody>
+
+\</table>
 \</div>
 
 *
