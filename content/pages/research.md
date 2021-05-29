@@ -31,7 +31,7 @@ layout: page
 <tr> 
     <td>2021</td> 
     <td>Distorted Astrophysical Discs | Kavli Cambridge</td> 
-    <td>Row 1, Cell 3</td> 
+    <td>Poster and LOC</td> 
 </tr> 
 <tr> 
     <td>Row 1, Cell 1</td> 
