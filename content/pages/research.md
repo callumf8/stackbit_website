@@ -35,7 +35,7 @@ layout: page
 </tr> 
 <tr> 
     <td>2020</td> 
-    <td>Row 1, Cell 2</td> 
+    <td>Summer School Protoplanetary discs | MPIA Heidelberg</td> 
     <td>Row 1, Cell 3</td> 
 </tr> 
 
