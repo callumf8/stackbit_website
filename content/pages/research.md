@@ -30,7 +30,7 @@ layout: page
 <tbody> 
 <tr> 
     <td>2021</td> 
-    <td>Row 1, Cell 2</td> 
+    <td>Distorted Astrophysical Discs | Kavli Cambridge</td> 
     <td>Row 1, Cell 3</td> 
 </tr> 
 <tr> 
