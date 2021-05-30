@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Keep Cam and Carry On
 subtitle: lorem-ipsum
 date: '2021-05-30'
 thumb_img_alt: lorem-ipsum
