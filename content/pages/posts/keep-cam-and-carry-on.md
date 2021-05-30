@@ -1,6 +1,6 @@
 ---
 title: Keep Cam and Carry On
-subtitle: lorem-ipsum
+subtitle: 'Paddling '
 date: '2021-05-30'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
