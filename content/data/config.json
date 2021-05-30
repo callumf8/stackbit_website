@@ -61,10 +61,10 @@
             },
             {
                 "style": "icon",
+                "icon_class": "orcid",
                 "label": "ORCID",
                 "url": "https://orcid.org/0000-0002-9285-2184",
                 "style": "icon",
-                "icon_class": "orcid",
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
