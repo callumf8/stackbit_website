@@ -58,16 +58,6 @@
                 "type": "action",
                 "label": "Youtube",
                 "url": "https://www.youtube.com/channel/UCpRO_srq4-XAPA719wW4q4A"
-            },
-            {
-                "style": "icon",
-                "icon_class": "orcid",
-                "label": "ORCID",
-                "url": "https://orcid.org/0000-0002-9285-2184",
-                "style": "icon",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
