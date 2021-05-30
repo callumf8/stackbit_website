@@ -58,15 +58,6 @@
                 "type": "action",
                 "label": "Youtube",
                 "url": "https://www.youtube.com/channel/UCpRO_srq4-XAPA719wW4q4A"
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "icon",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
