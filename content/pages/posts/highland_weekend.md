@@ -13,9 +13,5 @@ layout: post
 thumb_img_path: /images/cairgorms.png
 content_img_path: /images/curious-octopus.png
 ---
-## Lorem ipsum
+## The smell of pine and running of the river...
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
