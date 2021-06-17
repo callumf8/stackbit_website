@@ -13,6 +13,7 @@ seo:
 layout: post
 thumb_img_path: /images/cairgorms.png
 content_img_alt: 17th June 2021
+content_img_path: /images/curious-octopus.png
 ---
 ## Lorem ipsum
 
