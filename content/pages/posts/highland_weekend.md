@@ -1,6 +1,6 @@
 ---
 title: Highland Adventure
-subtitle: lorem-ipsum
+subtitle: Kayaking in the Cairngorms
 date: '2021-06-17'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
