@@ -2,7 +2,7 @@
 title: Highland Adventure
 subtitle: Kayaking in the Cairngorms
 date: '2021-06-17'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: Kayaking in the Cairngorms
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
