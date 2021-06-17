@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_img_path: /images/cairgorms.png
+content_img_alt: '17th '
 ---
 ## Lorem ipsum
 
