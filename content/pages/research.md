@@ -20,7 +20,9 @@ As gravitationally bound material falls inwards, it tends to flatten out into a 
 
 Observationally there is growing evidence for the ubiquity of these systems as shadows cast in the outer regions of protoplanetary discs are often explained by warped inner regions. Direct MASER imaging has also revealed the warped mid-plane in galactic centres. This problem spans all scales and demands careful analysis and numerical investigation. Check out my work to learn more and see how we are tackling these questions!
 
-## Publications
+## Publications****
+
+*   **Nonlinear resonant torus oscillations as a model of Keplerian disc warp dynamics** | CW Fairbairn, GI Ogilvie – Monthly Notices of the Royal Astronomical Society (2021) (DOI: [10.1093/mnras/stab2717](https://doi.org/10.1093/mnras/stab2717))
 
 *   **Nonlinear dynamics of hydrodynamic tori as a model of oscillations and bending waves in astrophysical discs** | CW Fairbairn, GI Ogilvie – Monthly Notices of the Royal Astronomical Society **(2021)** (DOI: [10.1093/mnras/stab1554](https://doi.org/10.1093/mnras/stab1554))
 
