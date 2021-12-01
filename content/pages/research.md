@@ -60,7 +60,9 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 </tbody> </table>
  </div>
 
-## Teaching Experience
+## Teaching and Outreach Experience
 
+*   2021 - Now  | Astrofluids Group Seminar Organising Committee 
+*   2021 - Now  | Cambridge Hands on Science (CHaOS) Public Outreach Volunteer
 *   2019 - 2021 | Natural Sciences Mathematics 1A Supervisor
 *   2018 - 2019 | Vector Calculus tutor
