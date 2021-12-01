@@ -30,7 +30,7 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 
 *   **Effects of hole-transport layer homogeneity in organic solar cells - A multi-length scale study**   HT Chien, M Pölzl, G Koller, S Challinger, C Fairbairn, I Baikie, M Kratzer, C Teichert, B Friedel – Surfaces and Interfaces **(2017)** *6, 72* (DOI: [10.1016/j.surfin.2016.11.008](http://dx.doi.org/10.1016/j.surfin.2016.11.008))
 
-## Conferences
+## Conferences and Talks
 
 <div class="responsive-table">
 <table> <caption>Simple table with caption and header</caption>
