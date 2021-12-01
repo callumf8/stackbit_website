@@ -47,7 +47,7 @@ Observationally there is growing evidence for the ubiquity of these systems as s
     <td>St Andrews Solar Magnetospheric Theory Group</td> 
     <td>Invited seminar</td> 
 </tr> 
-    <td>2021</td> 
+    <td></td> 
     <td>Distorted Astrophysical Discs | Kavli Cambridge</td> 
     <td>Poster and LOC</td> 
 </tr> 
