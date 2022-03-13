@@ -34,35 +34,45 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 
 <div class="responsive-table">
 <table> <caption>Simple table with caption and header</caption>
-<thead><tr> 
-    <th>Year</th> 
-    <th>Location</th> 
-    <th>Contribution</th> 
-</tr> </thead> 
-<tbody> 
-<tr> 
+<thead><tr>
+    <th>Year</th>
+    <th>Location</th>
+    <th>Contribution</th>
+</tr> </thead>
+<tbody>
+<tr>
 
-<tr> 
-    <td>2021</td> 
-    <td>St Andrews Solar Magnetospheric Theory Group</td> 
-    <td>Invited seminar</td> 
-</tr> 
-    <td></td> 
-    <td>Distorted Astrophysical Discs | Kavli Cambridge</td> 
-    <td>Poster and LOC</td> 
-</tr> 
-<tr> 
-    <td>2020</td> 
-    <td>Summer School Protoplanetary discs | MPIA Heidelberg</td> 
-    <td>Student</td> 
-</tr> 
+<tr>
+    <td>2022</td>
+    <td>Emerging Research Seminar Series | Christ's College</td>
+    <td>Seminar</td>
+</tr>
+    <td></td>
+    <td>Introduction to cosmochemistry and planet formation | University of Copenhagen</td>
+    <td>Workshop</td>
+</tr>
+<tr>
+    <td>2021</td>
+    <td>St Andrews Solar Magnetospheric Theory Group</td>
+    <td>Invited seminar</td>
+</tr>
+    <td></td>
+    <td>Distorted Astrophysical Discs | Kavli Cambridge</td>
+    <td>Poster and LOC</td>
+</tr>
+<tr>
+    <td>2020</td>
+    <td>Summer School Protoplanetary discs | MPIA Heidelberg</td>
+    <td>Student</td>
+</tr>
 
 </tbody> </table>
  </div>
 
 ## Teaching and Outreach Experience
 
-*   2021 - Now  | Astrofluids Group Seminar Organising Committee 
+*   2022 - Now  | Astrofluids Group Journal Club Organiser
+*   2021 - Now  | Astrofluids Group Seminar Organising Committee
 *   2021 - Now  | Cambridge Hands on Science (CHaOS) Public Outreach Volunteer
 *   2019 - 2021 | Natural Sciences Mathematics 1A Supervisor
 *   2018 - 2019 | Vector Calculus tutor
