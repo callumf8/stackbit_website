@@ -33,7 +33,7 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 ## Conferences and Talks
 
 <div class="responsive-table">
-<table> <caption>Simple table with caption and header</caption>
+<table> <caption></caption>
 <thead><tr>
     <th>Year</th>
     <th>Location</th>
@@ -51,6 +51,17 @@ Observationally there is growing evidence for the ubiquity of these systems as s
     <td>Introduction to cosmochemistry and planet formation | University of Copenhagen</td>
     <td>Workshop</td>
 </tr>
+<tr>
+    <td></td>
+    <td> Dustbusters Protoplanetary Discs| Milan</td>
+    <td>Summer School</td>
+</tr>
+<tr>
+    <td></td>
+    <td> Formation and Evolution of Planetary Systems| CPT - T\"{u}bingen</td>
+    <td>Talk and Poster</td>
+</tr>
+
 <tr>
     <td>2021</td>
     <td>St Andrews Solar Magnetospheric Theory Group</td>
