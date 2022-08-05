@@ -53,12 +53,12 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 </tr>
 <tr>
     <td></td>
-    <td> Dustbusters Protoplanetary Discs| Milan</td>
+    <td> Dustbusters Protoplanetary Discs | Milan</td>
     <td>Summer School</td>
 </tr>
 <tr>
     <td></td>
-    <td> Formation and Evolution of Planetary Systems| CPT - T&#252bingen</td>
+    <td> Formation and Evolution of Planetary Systems | CPT - T&#252bingen</td>
     <td>Talk and Poster</td>
 </tr>
 
