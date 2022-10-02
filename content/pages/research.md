@@ -22,6 +22,10 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 
 ## Publications
 
+*   **Parametric instability in warped astrophysical discs: growth, saturation and feedback** | CW Fairbairn, GI Ogilvie - Monthly Notices of the Royal Astronomical Society (submitted 2022)
+
+*   **Density waves in protoplanetary discs excited by eccentric planets: linear theory** | CW Fairbairn, RR Rafikov - Monthly Notices of the Royal Astronomical Society (2022) (DOI: [10.1093/mnras/stac2802](https://doi.org/10.1093/mnras/stac2802))
+
 *   **Nonlinear resonant torus oscillations as a model of Keplerian disc warp dynamics** | CW Fairbairn, GI Ogilvie – Monthly Notices of the Royal Astronomical Society (2021) (DOI: [10.1093/mnras/stab2717](https://doi.org/10.1093/mnras/stab2717))
 
 *   **Nonlinear dynamics of hydrodynamic tori as a model of oscillations and bending waves in astrophysical discs** | CW Fairbairn, GI Ogilvie – Monthly Notices of the Royal Astronomical Society **(2021)** (DOI: [10.1093/mnras/stab1554](https://doi.org/10.1093/mnras/stab1554))

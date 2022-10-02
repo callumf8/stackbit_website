@@ -10,9 +10,9 @@ sections:
     type: section_content
     title: ABOUT
     content: >
-      Hello world and welcome to my small corner of the internet! I'm a 3rd year
+      Hello world and welcome to my small corner of the internet! I'm a final year
       PhD student working in DAMTP Cambridge where I am excited by distorted
-      astrophysical discs! Outside of research, I've recently picked up kayaking
+      astrophysical discs and planet-disc interactions! Outside of research, I've recently picked up kayaking
       and enjoy camping and exploring the countryside in my wee Fiat Panda. 6 ft
       2 in a compact...but luckily the seats go back.
     actions:
