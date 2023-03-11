@@ -22,7 +22,7 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 
 ## Publications
 
-*   **Parametric instability in warped astrophysical discs: growth, saturation and feedback** | CW Fairbairn, GI Ogilvie - Monthly Notices of the Royal Astronomical Society (submitted 2022)
+*   **Parametric instability in warped astrophysical discs: growth, saturation and feedback** | CW Fairbairn, GI Ogilvie - Monthly Notices of the Royal Astronomical Society (2023) (DOI: [10.1093/mnras/stad211](https://doi.org/10.1093/mnras/stad211))
 
 *   **Density waves in protoplanetary discs excited by eccentric planets: linear theory** | CW Fairbairn, RR Rafikov - Monthly Notices of the Royal Astronomical Society (2022) (DOI: [10.1093/mnras/stac2802](https://doi.org/10.1093/mnras/stac2802))
 
@@ -45,6 +45,16 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 </tr> </thead>
 <tbody>
 <tr>
+
+<tr>
+    <td>2023</td>
+    <td>LCLU Science Day | Cambridge</td>
+    <td>Talk</td>
+</tr>
+    <td></td>
+    <td>LCLU Streaming instability and planet formation | Cambridge</td>
+    <td>Coffee Morning</td>
+</tr>
 
 <tr>
     <td>2022</td>
