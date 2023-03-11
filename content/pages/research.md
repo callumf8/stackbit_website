@@ -48,11 +48,11 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 
 <tr>
     <td>2023</td>
-    <td>LCLU Science Day | Cambridge</td>
+    <td>LCLU Science Day | University of Cambridge</td>
     <td>Talk</td>
 </tr>
     <td></td>
-    <td>LCLU Streaming instability and planet formation | Cambridge</td>
+    <td>LCLU Streaming instability and planet formation | University of Cambridge</td>
     <td>Coffee Morning</td>
 </tr>
 
