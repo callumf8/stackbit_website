@@ -1,7 +1,7 @@
 ---
 title: Research
-subtitle: Department of Applied Mathematics and Theoretical Physics
-img_alt: lorem-ipsum
+subtitle: Postdoctoral Member at the Institute for Advanced Study
+img_alt: IAS
 seo:
   title: ''
   description: ''
@@ -10,7 +10,7 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Our Group
+## School of Natural Sciences
 
 ![](/\_static/app-assets/images/warped_disc.jpeg)
 
