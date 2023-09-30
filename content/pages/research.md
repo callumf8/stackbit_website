@@ -45,27 +45,31 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 </tr> </thead>
 <tbody>
 
-<!-- <tr>
+<tr>
     <td>2023</td>
     <td>Thursday Seminar | IAS</td>
     <td>Talk</td>
 </tr>
+<tr>
     <td></td>
     <td>Bachall Lunch | IAS</td>
     <td>Talk</td>
 </tr>
+<tr>
     <td></td>
     <td>Planet Formation Meeting | CCA Flatiron</td>
     <td>Talk</td>
 </tr>
+<tr>
     <td></td>
     <td>LCLU Science Day | University of Cambridge</td>
     <td>Talk</td>
 </tr>
+<tr>
     <td></td>
     <td>LCLU Streaming instability and planet formation | University of Cambridge</td>
     <td>Coffee Morning</td>
-</tr> -->
+</tr>
 
 <tr>
     <td>2022</td>
