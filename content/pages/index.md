@@ -10,11 +10,9 @@ sections:
     type: section_content
     title: ABOUT
     content: >
-      Hello world and welcome to my small corner of the internet! I'm a final year
-      PhD student working in DAMTP Cambridge where I am excited by distorted
-      astrophysical discs and planet-disc interactions! Outside of research, I've recently picked up kayaking
-      and enjoy camping and exploring the countryside in my wee Fiat Panda. 6 ft
-      2 in a compact...but luckily the seats go back.
+      Hello world and welcome to my small corner of the internet! As a theoretical astrophysicist I like to spend my days thinking about the fluid dynamics governing a variety of systems - from the energetic flows around Active Galactic Nuclei to the spinning discs where extra-solar planets are born.
+
+      I have just uptaken a Post-doctoral membership at the Institute for Advanced Study where I am excited to pursue my research further and enjoy some adventures as a Scotsman abroad in the land of the free!
     actions:
       - label: Contact Me
         url: /contact
@@ -30,8 +28,8 @@ sections:
 seo:
   title: 'Callum Fairbairn '
   description: |+
-    PhD Research Student Homepage
-    University of Cambridge, Christ's College
+    Postdoctoral Researcher  Homepage
+    IAS, Princeton
 
 
   extra:
