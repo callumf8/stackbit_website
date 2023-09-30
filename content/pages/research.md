@@ -46,7 +46,7 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 <tbody>
 <tr>
 
-<!-- <tr>
+<tr>
     <td>2023</td>
     <td>Thursday Seminar | Institute for Advanced Study</td>
     <td>Talk</td>
@@ -66,7 +66,7 @@ Observationally there is growing evidence for the ubiquity of these systems as s
     <td></td>
     <td>LCLU Streaming instability and planet formation | University of Cambridge</td>
     <td>Coffee Morning</td>
-</tr> -->
+</tr>
 
 <tr>
     <td>2022</td>
