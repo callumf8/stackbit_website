@@ -12,7 +12,7 @@ sections:
     content: >
       Hello world and welcome to my small corner of the internet! As a theoretical astrophysicist I like to spend my days thinking about the fluid dynamics governing a variety of systems - from the energetic flows around Active Galactic Nuclei to the spinning discs where extra-solar planets are born.
 
-      I have just uptaken a postdoctoral membership at the Institute for Advanced Study where I am excited to pursue my research further and enjoy some adventures as a Scotsman abroad in the land of the free!
+      I have just uptaken a Post-doctoral membership at the Institute for Advanced Study where I am excited to pursue my research further and enjoy some adventures as a Scotsman abroad in the land of the free!
     actions:
       - label: Contact Me
         url: /contact

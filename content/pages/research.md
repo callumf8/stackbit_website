@@ -1,6 +1,6 @@
 ---
 title: Research
-subtitle: School of Natural Sciences, Institute for Advanced Study
+subtitle: Department of Applied Mathematics and Theoretical Physics
 img_alt: lorem-ipsum
 seo:
   title: ''
@@ -14,7 +14,7 @@ layout: page
 
 ![](/\_static/app-assets/images/warped_disc.jpeg)
 
-I work in the [Institute for Advanced Study](https://www.ias.edu/scholars/callum-w-fairbairn) group based in Princeton, New Jersey. My research specialises in exploring the rich hydrodynamic behaviour of warped astrophysical discs. These structures are everywhere in the universe!
+I work in the [Astrophysical Fluids and Nonlinear Dynamics](http://www.damtp.cam.ac.uk/research/astro/) group based in DAMTP Cambridge. My research specialises in exploring the rich hydrodynamic behaviour of warped astrophysical discs. These structures are everywhere in the universe!
 
 As gravitationally bound material falls inwards, it tends to flatten out into a rotating disc, acting as a vast reservoir of angular momentum. However, any misalignment in the system may distort the coplanar disc into a warped configuration. For example, when the accretion flow onto the disc is misaligned or external torques are enacted by a tilted, spinning black hole or companion planet on an inclined orbit. The effect of this warp on the long term evolution of the disc is very important. Numerical simulations suggest in some cases the warp presents an anti-diffusive instability causing the disc to break. In other systems the external torques might tear the disc into separately precessing planes. Furthermore, the warped geometry is susceptible to a parametric instability which may drive turbulence affecting the warp evolution and mass accretion. All these processes feed into crucial questions about the planet forming environment in protoplanetary discs and the accretion processes driving energetic events around compact objects.
 
@@ -47,18 +47,6 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 
 <tr>
     <td>2023</td>
-    <td>Thursday Seminar | Institute for Advanced Study</td>
-    <td>Talk</td>
-</tr>
-    <td></td>
-    <td>Bachall Lunch| Institute for Advanced Study</td>
-    <td>Talk</td>
-</tr>
-    <td></td>
-    <td>Planet Formation Group Meeting| CCA Flatiron Institute</td>
-    <td>Talk</td>
-</tr>
-    <td></td>   
     <td>LCLU Science Day | University of Cambridge</td>
     <td>Talk</td>
 </tr>
@@ -107,8 +95,8 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 
 ## Teaching and Outreach Experience
 
-*   2022 - 2023  | Astrofluids Group Journal Club Organiser
-*   2021 - 2023  | Astrofluids Group Seminar Organising Committee
-*   2021 - 2022  | Cambridge Hands on Science (CHaOS) Public Outreach Volunteer
+*   2022 - Now  | Astrofluids Group Journal Club Organiser
+*   2021 - Now  | Astrofluids Group Seminar Organising Committee
+*   2021 - Now  | Cambridge Hands on Science (CHaOS) Public Outreach Volunteer
 *   2019 - 2021 | Natural Sciences Mathematics 1A Supervisor
 *   2018 - 2019 | Vector Calculus tutor
