@@ -44,7 +44,6 @@ Observationally there is growing evidence for the ubiquity of these systems as s
     <th>Contribution</th>
 </tr> </thead>
 <tbody>
-<tr>
 
 <tr>
     <td>2023</td>
