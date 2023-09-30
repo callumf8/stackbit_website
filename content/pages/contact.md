@@ -24,7 +24,7 @@ sections:
         default_value: Please select
         options:
           - Research
-          - Cambridge
+          - IAS
           - Surprise
       - input_type: textarea
         name: message
