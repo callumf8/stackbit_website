@@ -51,12 +51,15 @@ Observationally there is growing evidence for the ubiquity of these systems as s
     <td>Thursday Seminar | Institute for Advanced Study</td>
     <td>Talk</td>
 </tr>
+    <td></td>
     <td>Bachall Lunch| Institute for Advanced Study</td>
     <td>Talk</td>
 </tr>
+    <td></td>
     <td>Planet Formation Group Meeting| CCA Flatiron Institute</td>
     <td>Talk</td>
 </tr>
+    <td></td>   
     <td>LCLU Science Day | University of Cambridge</td>
     <td>Talk</td>
 </tr>
