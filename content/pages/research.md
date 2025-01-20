@@ -22,6 +22,10 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 
 ## Publications
 
+*   **Linear bending wave propagation in laminar and turbulent discs** | CW Fairbairn - The Astrophysical Journal (2025) (DOI: [10.3847/1538-4357/ad9c73](https://doi.org/10.3847/1538-4357/ad9c73))
+
+*   **Eccentric planet-disc interactions: orbital migration and eccentricity evolution** | CW Fairbairn, RR Rafikov - Monthly Notices of the Royal Astronomical Society (2025)
+
 *   **Parametric instability in warped astrophysical discs: growth, saturation and feedback** | CW Fairbairn, GI Ogilvie - Monthly Notices of the Royal Astronomical Society (2023) (DOI: [10.1093/mnras/stad211](https://doi.org/10.1093/mnras/stad211))
 
 *   **Density waves in protoplanetary discs excited by eccentric planets: linear theory** | CW Fairbairn, RR Rafikov - Monthly Notices of the Royal Astronomical Society (2022) (DOI: [10.1093/mnras/stac2802](https://doi.org/10.1093/mnras/stac2802))
@@ -46,7 +50,39 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 <tbody>
 
 <tr>
+    <td>2025</td>
+    <td>Planet Formation Meeting | CCA Flatiron</td>
+    <td>Talk</td>
+</tr>
+<tr>
+    <td></td>
+    <td>IAStrophsyical Waves | IAS</td>
+    <td>Talk and Organiser</td>
+</tr>
+
+<tr>
+    <td>2024</td>
+    <td>New Heights in Planet Formation | ESO Garching</td>
+    <td>Talk</td>
+</tr>
+<tr>
+    <td></td>
+    <td>Lubow@75 Conference | UNLV</td>
+    <td>Talk</td>
+</tr>
+<tr>
+    <td></td>
+    <td>Yale Exoplanet Seminar | Yale</td>
+    <td>Talk</td>
+</tr>
+
+<tr>
     <td>2023</td>
+    <td>TACC Meeting | University of Arizona</td>
+    <td>Talk</td>
+</tr>
+<tr>
+    <td></td>
     <td>Thursday Seminar | IAS</td>
     <td>Talk</td>
 </tr>
