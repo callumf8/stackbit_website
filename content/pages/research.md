@@ -24,7 +24,7 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 
 *   **Linear bending wave propagation in laminar and turbulent discs** | CW Fairbairn - The Astrophysical Journal (2025) (DOI: [10.3847/1538-4357/ad9c73](https://doi.org/10.3847/1538-4357/ad9c73))
 
-*   **Eccentric planet-disc interactions: orbital migration and eccentricity evolution** | CW Fairbairn, RR Rafikov - Monthly Notices of the Royal Astronomical Society (2025)
+*   **Eccentric planet-disc interactions: orbital migration and eccentricity evolution** | CW Fairbairn, RR Rafikov - Monthly Notices of the Royal Astronomical Society (2025) (DOI: [10.1093/mnras/staf117](https://doi.org/10.1093/mnras/staf117))
 
 *   **Parametric instability in warped astrophysical discs: growth, saturation and feedback** | CW Fairbairn, GI Ogilvie - Monthly Notices of the Royal Astronomical Society (2023) (DOI: [10.1093/mnras/stad211](https://doi.org/10.1093/mnras/stad211))
 
