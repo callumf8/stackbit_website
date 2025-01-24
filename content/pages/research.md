@@ -148,7 +148,7 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 ## Teaching and Outreach Experience
 
 *   2025 | IAStrophysical Waves Conference Organiser
-*   2024 - 2024  | IAS/Princeton Colloquium Organiser
+*   2024 - 2025  | IAS/Princeton Colloquium Organiser
 *   2022 - 2023  | DAMTP Astrofluids Group Journal Club Organiser
 *   2021 - 2023  | DAMTP Astrofluids Group Seminar Organising Committee
 *   2021 - Now  | Cambridge Hands on Science (CHaOS) Public Outreach Volunteer
