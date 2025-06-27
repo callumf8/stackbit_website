@@ -22,6 +22,13 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 
 ## Publications
 
+
+Pushing the limits of eccentricity in planet-disc interactions
+
+*   **Pushing the limits of eccentricity in planet-disc interactions** | CW Fairbairn, AJ Dittmann - Submitted Monthly Notices of the Royal Astronomical Society (2025) (arXiv: [2506.19917](https://arxiv.org/abs/2506.19917))))
+
+*   **The interplay of the parametric instability and MRI in oscillatory shear flows** | CW Fairbairn, JM Stone - Submitted The Astrophysical Journal (2025) (arXiv: [2506.08839v1](https://arxiv.org/abs/2506.08839v1)))
+
 *   **Linear bending wave propagation in laminar and turbulent discs** | CW Fairbairn - The Astrophysical Journal (2025) (DOI: [10.3847/1538-4357/ad9c73](https://doi.org/10.3847/1538-4357/ad9c73))
 
 *   **Eccentric planet-disc interactions: orbital migration and eccentricity evolution** | CW Fairbairn, RR Rafikov - Monthly Notices of the Royal Astronomical Society (2025) (DOI: [10.1093/mnras/staf117](https://doi.org/10.1093/mnras/staf117))
@@ -32,11 +39,11 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 
 *   **Nonlinear resonant torus oscillations as a model of Keplerian disc warp dynamics** | CW Fairbairn, GI Ogilvie – Monthly Notices of the Royal Astronomical Society (2021) (DOI: [10.1093/mnras/stab2717](https://doi.org/10.1093/mnras/stab2717))
 
-*   **Nonlinear dynamics of hydrodynamic tori as a model of oscillations and bending waves in astrophysical discs** | CW Fairbairn, GI Ogilvie – Monthly Notices of the Royal Astronomical Society **(2021)** (DOI: [10.1093/mnras/stab1554](https://doi.org/10.1093/mnras/stab1554))
+*   **Nonlinear dynamics of hydrodynamic tori as a model of oscillations and bending waves in astrophysical discs** | CW Fairbairn, GI Ogilvie – Monthly Notices of the Royal Astronomical Society (2021) (DOI: [10.1093/mnras/stab1554](https://doi.org/10.1093/mnras/stab1554))
 
-*   **Eruptions and flaring activity in emerging quadrupolar regions** | P Syntelis, EJ Lee, CW Fairbairn, V Archontis, AW Hood – Astronomy & Astrophysics **(2019)** *630, a134* (DOI: [10.1051/0004-6361/201936246](http://dx.doi.org/10.1051/0004-6361/201936246))
+*   **Eruptions and flaring activity in emerging quadrupolar regions** | P Syntelis, EJ Lee, CW Fairbairn, V Archontis, AW Hood – Astronomy & Astrophysics (2019) *630, a134* (DOI: [10.1051/0004-6361/201936246](http://dx.doi.org/10.1051/0004-6361/201936246))
 
-*   **Effects of hole-transport layer homogeneity in organic solar cells - A multi-length scale study**   HT Chien, M Pölzl, G Koller, S Challinger, C Fairbairn, I Baikie, M Kratzer, C Teichert, B Friedel – Surfaces and Interfaces **(2017)** *6, 72* (DOI: [10.1016/j.surfin.2016.11.008](http://dx.doi.org/10.1016/j.surfin.2016.11.008))
+*   **Effects of hole-transport layer homogeneity in organic solar cells - A multi-length scale study**   HT Chien, M Pölzl, G Koller, S Challinger, C Fairbairn, I Baikie, M Kratzer, C Teichert, B Friedel – Surfaces and Interfaces (2017) *6, 72* (DOI: [10.1016/j.surfin.2016.11.008](http://dx.doi.org/10.1016/j.surfin.2016.11.008))
 
 ## Conferences and Talks
 
@@ -51,6 +58,16 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 
 <tr>
     <td>2025</td>
+    <td>NBIA Open Problems in Astrophysics | Copenhagen</td>
+    <td>Invited Talk</td>
+</tr>
+<tr>
+    <td></td>
+    <td>DYNAMIX Meeting | Cambridge</td>
+    <td>Talk</td>
+</tr>
+<tr>
+    <td></td>
     <td>Planet Formation Meeting | CCA Flatiron</td>
     <td>Talk</td>
 </tr>
@@ -147,6 +164,7 @@ Observationally there is growing evidence for the ubiquity of these systems as s
 
 ## Teaching and Outreach Experience
 
+*   2025 | Princeton Undergraduate Summer Student Supervisor
 *   2025 | IAStrophysical Waves Conference Organiser
 *   2024 - 2025  | IAS/Princeton Colloquium Organiser
 *   2022 - 2023  | DAMTP Astrofluids Group Journal Club Organiser
