@@ -1,9 +1,10 @@
 ---
 title: About Me
 subtitle: >-
-  I should begin by introducing myself...so here is me waving from the side of a
-  mountain!
-img_path: /images/half_dome.jpeg
+
+I am a postdoctoral member at the Institute for Advanced Study, Princeton. Here I pursue a variety of research interests spanning warped discs and perturber-disc interactions. Having lived in NJ for a couple of years, I know this state gets a hard rep. But as you can see from this paddle on the Delaware, it is a beautiful place to live and work!
+
+img_path: /images/kayak.jpeg
 seo:
   title: About Me
   description: This is the about me page
